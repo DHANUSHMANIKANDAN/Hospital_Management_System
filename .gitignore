@@ -1,0 +1,15 @@
+# Backend
+Back-end/venv/
+Back-end/__pycache__/
+*.pyc
+
+# Frontend
+Front-end/node_modules/
+Front-end/dist/
+
+# Environment
+.env
+
+# Large model files
+*.keras
+*.h5
